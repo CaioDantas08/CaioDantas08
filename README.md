@@ -76,6 +76,9 @@ Me chamo Caio Dantas Martins, tenho 20 anos e nasci e cresci em Guamaré/RN. Cur
 
 <hr style="border: 1px solid #444; width: 80%;">
 
+<br/>
+<br/>
+
 ###   📊 Estatísticas 
    <img 
       alt="GitHub Stats"
@@ -103,7 +106,8 @@ Me chamo Caio Dantas Martins, tenho 20 anos e nasci e cresci em Guamaré/RN. Cur
    <br/>
    <br/>
    <br/>
-   
+   <br/>
+   <br/>
    
    <hr style="border: 1px solid #444; width: 80%;">
 
