@@ -92,7 +92,43 @@ Me chamo Caio Dantas Martins, tenho 20 anos e nasci e cresci em Guamaré/RN. Cur
       style="padding-right: 10px;"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioDantas08&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=12" 
    />
-          
+
+   <br/>
+   <br/>
+   <br/>
+   <br/>
+   <br/>
+   <br/>
+   <br/>
+   <br/>
+   
+   <hr style="border: 1px solid #444; width: 80%;">
+
+   ## 💻 Projetos para o portifólio
+   
+   <table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🧩 Sudoku</h3>
+      <p>Projeto Sudoku</p>
+      <p>
+        <a href="https://github.com/CaioDantas08/sudoku">
+          <img src="https://img.shields.io/badge/Ver Projeto-181717?style=for-the-badge&logo=github"/>
+        </a>
+      </p>
+    </td>
+
+   <td width="50%" align="center">
+      <h3>📊 Bar Chart Generator</h3>
+      <p>Geração de animação de gráficos de barras a partir de dados em C++.</p>
+      <p>
+        <a href="https://github.com/CaioDantas08/barchart">
+          <img src="https://img.shields.io/badge/Ver Projeto-181717?style=for-the-badge&logo=github"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
           
           
           
