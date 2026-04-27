@@ -16,4 +16,9 @@ Me chamo Caio Dantas Martins, tenho 20 anos e nasci e cresci em Guamaré/RN. Cur
          src="https://custom-icon-badges.demolab.com/github/followers/CaioDantas08?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=SEGUIDORES&logoColor=white"
          />
      </a>
+      <a href="https://instagram.com/caio__dantas">
+         <img alt="Instagram" 
+         title="Me siga no Instagram" 
+         src="https://custom-icon-badges.demolab.com/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+      </a>
    </p>
