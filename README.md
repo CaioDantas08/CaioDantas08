@@ -22,3 +22,75 @@ Me chamo Caio Dantas Martins, tenho 20 anos e nasci e cresci em Guamaré/RN. Cur
          src="https://custom-icon-badges.demolab.com/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
       </a>
    </p>
+   <hr style="border: 1px solid #444; width: 80%;">
+   
+   ###   🤖 Linguagens, Frameworks e Ferramentas
+   
+   <img 
+      title="C++"
+      alt="C++"
+      align="left"
+      width="30px"
+      style="padding-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+   />
+
+   <img 
+      title="Java"
+      alt="Java"
+      align="left"
+      width="30px"
+      style="padding-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+   />
+   
+   <img 
+      title="Spring"
+      alt="Spring"
+      align="left"
+      width="30px"
+      style="padding-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+   />
+   
+   <img 
+      title="Git"
+      alt="Git"
+      align="left"
+      width="30px"
+      style="padding-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+   />
+   
+   <img 
+      title="Mysql"
+      alt="Mysql"
+      align="left"
+      width="30px"
+      style="padding-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+   />
+
+<br/>
+<br/>
+
+###   📊 Estatísticas 
+   <img 
+      alt="GitHub Stats"
+      align="left"
+      height="200"
+      style="padding-right: 10px;"
+      src="https://github-readme-stats.vercel.app/api?username=CaioDantas08&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+   />
+
+   <img 
+      alt="GitHub Stats"
+      align="left"
+      height="200"
+      style="padding-right: 10px;"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioDantas08&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=12" 
+   />
+          
+          
+          
+          
