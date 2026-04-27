@@ -117,7 +117,7 @@ Me chamo Caio Dantas Martins, tenho 20 anos e nasci e cresci em Guamaré/RN. Cur
   <tr>
     <td width="50%" align="center">
       <h3>🧩 Sudoku</h3>
-      <p>Projeto Sudoku</p>
+      <p>Simulação do jogo sudoku feito em C++ via terminal no 2° semestre de CC.</p>
       <p>
         <a href="https://github.com/CaioDantas08/sudoku">
           <img src="https://img.shields.io/badge/Ver Projeto-181717?style=for-the-badge&logo=github"/>
